@@ -1,0 +1,7 @@
+Alien
+Home
+Ruins
+Ship
+Station
+Natural Environment
+Unnatural Environment
